@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Yusuf Dahud",
+  "jobTitle": "Founder & Lead WordPress Developer",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Worknoon"
+  },
+  "url": "https://www.worknoon.com/about",
+  "sameAs": [
+    "https://www.linkedin.com/in/dahudyusuf",
+    "https://github.com/Yusfate4",
+    "https://dahud-yusuf.netlify.app"
+  ],
+  "alumniOf": {
+    "@type": "EducationalOrganization",
+    "name": "University of Lagos"
+  },
+  "knowsAbout": [
+    "WordPress Development",
+    "SEO Optimization",
+    "Schema Markup",
+    "Elementor Pro",
+    "Web Performance",
+    "Laravel",
+    "React.js"
+  ],
+  "description": "WordPress developer with 3+ years experience specializing in SEO optimization, schema markup implementation, and high-performance WordPress solutions."
+}
