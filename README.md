@@ -7,7 +7,7 @@
 WordPress landing page development with SEO optimization, schema markup implementation, and system architecture documentation.
 
 ## 🛠️ Tech Stack
-- **CMS:** WordPress 6.5+
+- **CMS:** WordPress 6.9.4
 - **Page Builder:** Elementor Pro
 - **Analytics:** Google Analytics 4
 - **Form Plugin:** WPForms
@@ -42,7 +42,7 @@ WordPress landing page development with SEO optimization, schema markup implemen
 - [x] Mobile responsive design
 - [x] Elementor Pro template export
 
-## 📅 Tomorrow's Tasks (April 30)
+## 📅 Tomorrow's Tasks (May 1st)
 - [ ] Google Analytics setup
 - [ ] Speed optimization (Autoptimize, Smush)
 - [ ] Final WordPress polish
@@ -53,13 +53,13 @@ WordPress landing page development with SEO optimization, schema markup implemen
 ### Expected Performance Results
 
 **Before optimization:**
-- PageSpeed Score: 40-50 (mobile), 60-70 (desktop)
+- PageSpeed Score (I used Lighthouse Audit): 40-50 (mobile), 60-70 (desktop)
 - Load time: 4-6 seconds
 - Page size: 3-5MB
 - HTTP requests: 100+
 
 **After optimization (with recommended stack):**
-- PageSpeed Score: 85-95 (mobile), 95+ (desktop)
+- PageSpeed Score (I used Lighthouse Audit): 85-95 (mobile), 95+ (desktop)
 - Load time: 1-2 seconds
 - Page size: 500KB-1MB
 - HTTP requests: 20-40
@@ -81,10 +81,10 @@ WordPress landing page development with SEO optimization, schema markup implemen
 
 **Remember:** Plugins are tools. Proper implementation, theme optimization, and quality hosting matter more than plugin quantity. A well-coded theme on good hosting with 3 plugins outperforms a bloated theme on cheap hosting with 10 optimization plugins.
 
-/docs/ → All written documentation
-/schema-markup/ → Technical JSON files
-/theme-files/ → WordPress exports
-/screenshots/ → Visual evidence
+/docs/ → All written documentation <br>
+/schema-markup/ → Technical JSON files <br>
+/theme-files/ → WordPress exports <br>
+/screenshots/ → Visual evidence <br>
 README.md → Central navigation and reflection
 
 **Why:** Clear separation of concerns makes repository navigable for technical evaluators.
