@@ -271,7 +271,7 @@ While this assessment didn't require affiliate implementation, I have experience
 This assessment demonstrates proficiency in:
 
 **Technical Skills:**
-- ✅ WordPress development (theme customization, plugin integration)
+- ✅ WordPress development (theme customization, plugin integration and development for register Custom Post Types, Meta Boxes, and Shortcodes)
 - ✅ Elementor Pro page building
 - ✅ Responsive web design (mobile, tablet, desktop)
 - ✅ Performance optimization (caching, compression, lazy loading)
