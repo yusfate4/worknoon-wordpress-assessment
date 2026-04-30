@@ -100,17 +100,17 @@ Google checks name consistency across:
 - Wikidata
 
 **Example of good consistency:**
-Website: "Worknoon"
-LinkedIn: "Worknoon"
-Wikidata: "Worknoon"
-Press: "Worknoon"
+Website: "Worknoon" <br>
+LinkedIn: "Worknoon" <br>
+Wikidata: "Worknoon" <br>
+Press: "Worknoon" <br>
 Google Business: "Worknoon"
 
 **Example of bad consistency (confuses Google):**
-Website: "Worknoon"
-LinkedIn: "WorkNoon Inc."
-Facebook: "Worknoon Agency"
-Press: "Work Noon"
+Website: "Worknoon" <br>
+LinkedIn: "WorkNoon Inc." <br>
+Facebook: "Worknoon Agency" <br>
+Press: "Work Noon" <br>
 Directory: "Worknoon - WordPress Development"
 
 
