@@ -313,7 +313,7 @@ This assessment challenged me to demonstrate both breadth (WordPress, SEO, schem
 
 ## 📹 Demo Video
 
-**Video Link:** [Will be added after recording]
+**Video Link:** https://drive.google.com/file/d/1wkim-OHKe3AeJ3_AFoCHciwXRxvxrcig/view?usp=sharing
 
 **Video covers:**
 1. WordPress landing page walkthrough (2 minutes)
@@ -323,7 +323,7 @@ This assessment challenged me to demonstrate both breadth (WordPress, SEO, schem
 5. System thinking reflection (2 minutes)
 6. Performance optimization results (1 minute)
 
-**Total Duration:** 9 minutes
+**Total Duration:** 10 minutes
 
 ---
 
@@ -343,9 +343,9 @@ This assessment challenged me to demonstrate both breadth (WordPress, SEO, schem
 - [x] Meaningful commit history (10+ commits)
 - [x] Screenshots captured
 - [x] README.md comprehensive
-- [ ] Demo video recorded and uploaded
-- [ ] Final review completed
-- [ ] Submitted to careers@worknoon.com
+- [x] Demo video recorded and uploaded
+- [x] Final review completed
+- [x] Submitted to careers@worknoon.com
 
 
 
